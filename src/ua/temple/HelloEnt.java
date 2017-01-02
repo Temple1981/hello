@@ -15,7 +15,7 @@ public class HelloEnt {
 
   	  
   	  
-		  System.out.println("\n Please, enter a NEW Secondname12 \n\r =>");
+		  System.out.println("\n Please, enter a NEW Secondname123 \n\r =>");
 
 
 	
